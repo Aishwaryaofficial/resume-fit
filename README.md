@@ -24,11 +24,10 @@
   <img src="docs/screenshots/home.png" alt="Home — upload a PDF and paste a job description" width="200" />
   <img src="docs/screenshots/home-ready.png" alt="Home — resume selected and sample job description filled" width="200" />
   <img src="docs/screenshots/result.png" alt="Result — match score, summary, and matching skills" width="200" />
-  </p>
-  <p align="center">
-  <img src="docs/screenshots/result-skills.png" alt="Result — missing skills and suggested resume edits" width="200" />
-    
 </p>
+  <p align="center">
+  <img src="docs/screenshots/result-skills.png" alt="Result — missing skills and suggested resume edits" width="200" /> 
+  </p>
 
 | 🏠 Home | ✅ Home (ready) | 📊 Result | 💡 Result (skills) |
 |:-:|:-:|:-:|:-:|
